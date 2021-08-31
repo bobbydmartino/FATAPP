@@ -1,4 +1,6 @@
 # FATAPP
+Fast Accountability Transfer and Automated Performance Pacer 
+
 Accountability App for weight loss goals
 
 ## Motivation:
