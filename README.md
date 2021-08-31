@@ -26,4 +26,5 @@ I hit my Goal, and the money went to the charity. I still weigh myself regularly
 Because as they say [what gets measured gets managed!](https://en.wikipedia.org/wiki/Peter_Drucker)
 
 Here is a look at the results in the renpho app: 
-<img src="https://github.com/bobbydmartino/FATAPP/blob/main/renpho.png?raw=true" width="50%">
+<br />
+<img src="https://github.com/bobbydmartino/FATAPP/blob/main/renpho.png?raw=true" width="25%">
