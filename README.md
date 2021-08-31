@@ -21,7 +21,8 @@ So I created a custom app in google developers, used the code.gs for importing f
 3. I had hit my goal!
 
 ## Results
-I hit my Goal, and the money went to the charity. I still weigh myself regularly. As it says [what gets measured gets managed!](https://en.wikipedia.org/wiki/Peter_Drucker)
-Here is a look at the results in the renpho app:
-![results](https://github.com/bobbydmartino/FATAPP/blob/main/renpho.png?raw=true | width=50%)
+I hit my Goal, and the money went to the charity. I still weigh myself regularly. 
 
+Because as they say [what gets measured gets managed!](https://en.wikipedia.org/wiki/Peter_Drucker)
+
+Here is a look at the results in the renpho app: <img src="https://github.com/bobbydmartino/FATAPP/blob/main/renpho.png?raw=true" width="48">
